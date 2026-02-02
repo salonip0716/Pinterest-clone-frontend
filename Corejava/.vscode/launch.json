@@ -1,0 +1,272 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "patternpatternspace",
+            "request": "launch",
+            "mainClass": "patternpatternspace",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "Characterpattern",
+            "request": "launch",
+            "mainClass": "Characterpattern",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "Halfpyramidpattern",
+            "request": "launch",
+            "mainClass": "Halfpyramidpattern",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "InvertedStarpattern",
+            "request": "launch",
+            "mainClass": "InvertedStarpattern",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "Starpattern",
+            "request": "launch",
+            "mainClass": "Starpattern",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "Sumoffirstnnaturalnumbers",
+            "request": "launch",
+            "mainClass": "Sumoffirstnnaturalnumbers",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "Evep",
+            "request": "launch",
+            "mainClass": "Evep",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "Reverseanumber",
+            "request": "launch",
+            "mainClass": "Reverseanumber",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "javaoratice.Prime",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "Facttorial",
+            "request": "launch",
+            "mainClass": "javaoratice.Facttorial",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeDigit",
+            "request": "launch",
+            "mainClass": "javaoratice.PalindromeDigit",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "Reverseanumber",
+            "request": "launch",
+            "mainClass": "javaoratice.Reverseanumber",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "Sumdigi",
+            "request": "launch",
+            "mainClass": "javaoratice.Sumdigi",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "CNuber",
+            "request": "launch",
+            "mainClass": "javaoratice.CNuber",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "Mnum",
+            "request": "launch",
+            "mainClass": "javaoratice.Mnum",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "Suum",
+            "request": "launch",
+            "mainClass": "javaoratice.Suum",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "Nnumbers",
+            "request": "launch",
+            "mainClass": "Nnumbers",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "Nnumber",
+            "request": "launch",
+            "mainClass": "Nnumber",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "Evep",
+            "request": "launch",
+            "mainClass": "javaoratice.Evep",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "LP",
+            "request": "launch",
+            "mainClass": "javaoratice.LP",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "LP",
+            "request": "launch",
+            "mainClass": "LP",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "LoopPac",
+            "request": "launch",
+            "mainClass": "LoopPac",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "Loopprac",
+            "request": "launch",
+            "mainClass": "Loopprac",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "Practice01",
+            "request": "launch",
+            "mainClass": "Practice01",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "JAVAworkspace_4dc08ad9"
+        },
+        {
+            "type": "java",
+            "name": "Sumoffirstnnaturalnumbers",
+            "request": "launch",
+            "mainClass": "Sumoffirstnnaturalnumbers",
+            "projectName": "javaworkspace_bfa56cb9"
+        },
+        {
+            "type": "java",
+            "name": "Nnumber",
+            "request": "launch",
+            "mainClass": "Nnumber",
+            "projectName": "javaworkspace_bfa56cb9"
+        },
+        {
+            "type": "java",
+            "name": "Number",
+            "request": "launch",
+            "mainClass": "Number",
+            "projectName": "javaworkspace_bfa56cb9"
+        },
+        {
+            "type": "java",
+            "name": "Number1to10",
+            "request": "launch",
+            "mainClass": "Number1to10",
+            "projectName": "javaworkspace_bfa56cb9"
+        },
+        {
+            "type": "java",
+            "name": "Pactice01",
+            "request": "launch",
+            "mainClass": "Pactice01",
+            "projectName": "javaworkspace_bfa56cb9"
+        },
+        {
+            "type": "java",
+            "name": "practice01",
+            "request": "launch",
+            "mainClass": "practice01",
+            "projectName": "javaworkspace_bfa56cb9"
+        },
+        {
+            "type": "java",
+            "name": "loops",
+            "request": "launch",
+            "mainClass": "loops",
+            "projectName": "javaworkspace_bfa56cb9"
+        },
+        {
+            "type": "java",
+            "name": "Practice01",
+            "request": "launch",
+            "mainClass": "Practice01",
+            "projectName": "javaworkspace_bfa56cb9"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "javaworkspace_bfa56cb9"
+        },
+        {
+            "type": "java",
+            "name": "BTS",
+            "request": "launch",
+            "mainClass": "BTS",
+            "projectName": "javaworkspace_bfa56cb9"
+        },
+        {
+            "type": "java",
+            "name": "basics",
+            "request": "launch",
+            "mainClass": "basics",
+            "projectName": "javaworkspace_bfa56cb9"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        }
+    ]
+}
