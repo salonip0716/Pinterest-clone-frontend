@@ -1,28 +1,137 @@
-* {
+*{
     margin:0;
     padding:0;
-    background-color: offwhite;
-    font-family:'Times New Roman', Times, serif;
-    color:black;
-
+    box-sizing:border-box;
 }
-.header {
-    display:flex;;
-    justify-content:space-between;
+
+body{
+    background:#f5f5f5;
+    font-family:Arial, Helvetica, sans-serif;
+    color:#111;
+}
+
+.header{
+    display:flex;
     align-items:center;
-    padding:20px 40px;
-    background-color:#ffffff;
-    box-shadow:0 2px 4px rgba(0,0,0,0.1);
-
+    justify-content:space-between;
+    padding:14px 32px;
+    background:#fff;
+    position:sticky;
+    top:0;
+    z-index:100;
+    box-shadow:0 2px 6px rgba(0,0,0,0.08);
 }
 
-.logo {
-    font-size: large;
-    color:red;
-    text-decoration:none;
-    font-weight:bold;
-    font-family : san-serif;
-    position:fixed;
+.logo{
+    font-size:22px;
+    font-weight:700;
+    color:#e60023;
+    letter-spacing:0.5px;
+}
 
+.search-bar{
+    width:45%;
+    padding:10px 18px;
+    border-radius:25px;
+    border:none;
+    outline:none;
+    background:#efefef;
+    font-size:14px;
+}
 
+.nav-bar{
+    display:flex;
+    align-items:center;
+}
+
+.nav-bar button{
+    padding:9px 16px;
+    border:none;
+    border-radius:25px;
+    font-size:14px;
+    cursor:pointer;
+    margin-left:10px;
+    transition:0.2s ease;
+}
+
+.login-btn{
+    background:#e60023;
+    color:#fff;
+}
+
+.signup-btn{
+    background:#efefef;
+    color:#111;
+}
+
+.nav-bar button:hover{
+    transform:scale(1.05);
+}
+
+.main{
+    padding:20px;
+}
+
+.grid{
+    column-count:5;
+    column-gap:16px;
+}
+
+.pin-card{
+    break-inside:avoid;
+    margin-bottom:16px;
+    border-radius:16px;
+    overflow:hidden;
+    background:#fff;
+    cursor:pointer;
+    position:relative;
+}
+
+.pin-card img{
+    width:100%;
+    display:block;
+}
+
+.pin-info{
+    position:absolute;
+    top:10px;
+    right:10px;
+}
+
+.save-button{
+    background:#e60023;
+    color:#fff;
+    border:none;
+    padding:8px 14px;
+    border-radius:20px;
+    font-size:13px;
+    opacity:0;
+    transition:0.2s ease;
+}
+
+.pin-card:hover .save-button{
+    opacity:1;
+}
+
+.pin-description{
+    padding:10px;
+    font-size:14px;
+}
+
+@media (max-width:1200px){
+    .grid{
+        column-count:4;
+    }
+}
+
+@media (max-width:900px){
+    .grid{
+        column-count:3;
+    }
+}
+
+@media (max-width:600px){
+    .grid{
+        column-count:2;
+    }
 }
